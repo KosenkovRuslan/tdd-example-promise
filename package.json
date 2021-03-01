@@ -1,0 +1,24 @@
+{
+  "name": "tdd-example-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KosenkovRuslan/tdd-example-promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KosenkovRuslan/tdd-example-promise/issues"
+  },
+  "homepage": "https://github.com/KosenkovRuslan/tdd-example-promise#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  }
+}
